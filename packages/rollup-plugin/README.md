@@ -48,7 +48,7 @@ This plugin is compatible with Vite, just importing the same package is totally 
 import path from 'path'
 import vue from '@vitejs/plugin-vue'
 import { defineConfig, loadEnv } from 'vite'
-import ViewLauncherVuePlugin from '@view-launcher/rollup-plugin'
+import ViewLauncherVuePlugin from '@view-launcher/rollup-plugin-vue'
 
 export default defineConfig(({ mode }) => {
   // load the .env file
@@ -112,5 +112,5 @@ export type Options = {
 } & ViewLauncherOptions
 ```
 
-See more about the `ViewLauncherOptions` [at here](https://github.com/view-launcher/view-launcher#%EF%B8%8F-options).
+See more about the `ViewLauncherOptions` [at here](https://github.com/view-launcher/view-launcher#%EF%B8%8F-options).  
 Also, you can find the full demo [at here](https://github.com/view-launcher/view-launcher/tree/master/playground).
