@@ -1,0 +1,28 @@
+{
+  "name": "@view-launcher/rollup-plugin-vue",
+  "version": "1.1.3",
+  "description": "The rollup plugin of view-launcher for Vue",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "@view-launcher/vue-shared": "^1.1.1",
+    "view-launcher": "^1.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/view-launcher/vue-view-launcher.git",
+    "directory": "packages/rollup-plugin"
+  },
+  "keywords": [
+    "vue",
+    "view-launcher",
+    "rollup-plugin"
+  ],
+  "bugs": {
+    "url": "https://github.com/view-launcher/vue-view-launcher/issues"
+  },
+  "homepage": "https://github.com/view-launcher/vue-view-launcher/master/packages/rollup-plugin#readme"
+}

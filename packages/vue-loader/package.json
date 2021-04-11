@@ -1,0 +1,26 @@
+{
+  "name": "@view-launcher/vue-loader",
+  "version": "1.1.1",
+  "description": "The webpack loader of view-launcher for Vue",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "@view-launcher/vue-shared": "^1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/view-launcher/vue-view-launcher.git",
+    "directory": "packages/vue-loader"
+  },
+  "keywords": [
+    "vue",
+    "view-launcher"
+  ],
+  "bugs": {
+    "url": "https://github.com/view-launcher/vue-view-launcher/issues"
+  },
+  "homepage": "https://github.com/view-launcher/vue-view-launcher/master/packages/vue-loader#readme"
+}
