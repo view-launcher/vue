@@ -1,6 +1,6 @@
 {
   "name": "@view-launcher/vue-shared",
-  "version": "1.1.1",
+  "version": "1.1.4",
   "description": "The shared logics for vue sfc loader of view-launcher",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
