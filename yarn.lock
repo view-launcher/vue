@@ -7950,10 +7950,10 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
-view-launcher@^1.1.4:
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/view-launcher/-/view-launcher-1.1.4.tgz#0ca8053c8b38c8d8a089e8c1cc594a20edb7d56b"
-  integrity sha512-egM7VfRkoN/TZ0gofjJ22gU4H9z9ZGK9cfHdOCa6YDTYXzCUf7JBX0+ySJuTUXajJprBYuzgpMaS2x+aotXcRw==
+view-launcher@^1.1.5:
+  version "1.1.6"
+  resolved "https://registry.yarnpkg.com/view-launcher/-/view-launcher-1.1.6.tgz#5416d7acac4c677160338cdc8855f5977423a347"
+  integrity sha512-rUlSeeFTWZld+lsm0qHA+GyOkg5XS+gm9vEiC/WAKePsHk4mPUOUD38/9GGu8rmbbKOYIIodBzYRXCTSp3L5Aw==
   dependencies:
     "@popperjs/core" "^2.9.1"
     "@types/mousetrap" "^1.6.5"

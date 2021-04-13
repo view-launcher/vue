@@ -8,6 +8,7 @@
     "dist"
   ],
   "dependencies": {
+    "@rollup/pluginutils": "^4.1.0",
     "@view-launcher/vue-shared": "^1.1.4",
     "view-launcher": "^1.1.5"
   },
